@@ -1,2 +1,2 @@
 # anu-quantecon-workshop
-ANU QuantEcon workshop in Jan 2020
+ANU QuantEcon workshop in Feb 2020
